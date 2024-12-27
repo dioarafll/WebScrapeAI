@@ -1,6 +1,6 @@
 
 
-# **Web Scraping dan Summarization dengan Vite React TypeScript dan Spring Boot**  
+# **Web Scraping Summarization with Vite React TypeScript and Spring Boot**  
 
 Proyek ini mencakup aplikasi **frontend** berbasis Vite React TypeScript dan **backend** berbasis Spring Boot. Tujuannya adalah untuk melakukan scraping konten dari halaman web, meringkas teks menggunakan model summarization dari **Hugging Face**, dan menyajikan hasilnya di UI yang interaktif.  
 
